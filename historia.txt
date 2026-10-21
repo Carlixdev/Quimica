@@ -1,0 +1,117 @@
+FINN Y LA FUENTE DE BURBUJAS
+La misión Pepsi + Mentos
+
+HISTORIA COMPLETA DEL JUEGO
+
+PREMISA
+
+Cada tarde, la Fuente de Burbujas del Observatorio del Valle encendía sus luces y lanzaba agua hacia el cielo. Una mañana, el surtidor dejó de funcionar. La fuente no estaba rota: la doctora Burbujas había cerrado el sistema para preparar una demostración que ayudara a explicar un misterio.
+
+En el cuaderno de la doctora había una pregunta escrita en letras grandes: «¿Qué ocurre cuando Pepsi y Mentos se encuentran?». En el pueblo todos tenían una explicación. Unos decían que los dos ingredientes reaccionaban y fabricaban un gas nuevo. Otros pensaban que la bebida ya tenía algo escondido. Finn quería verlo con sus propios ojos.
+
+Su misión era llegar al observatorio, reunir las pistas y ayudar a la doctora a preparar una demostración responsable. Finn comienza creyendo que verá una reacción química. Lo que observa le enseña a distinguir una reacción vistosa de una reacción química.
+
+PERSONAJES
+
+Finn: explorador curioso. Lleva un cuaderno para separar lo que observa de lo que imagina que ocurre. Su sprite aparece en el menú y acompaña toda la aventura.
+
+Doctora Burbujas: química del observatorio. Nunca le da a Finn una respuesta para memorizar; le propone preguntas, modelos y formas de comprobar sus ideas. Su personaje se dibuja directamente en el juego y no depende de una imagen externa.
+
+La Fuente: un surtidor de demostración conectado a una bandeja ancha. Es un modelo de juego para observar espuma y burbujas sin apuntar una botella a nadie.
+
+Mimo, Pixel y Nube: tres gatos exploradores que viven en los distintos mundos. Caminan por los mapas, hablan con Finn y ofrecen pistas cuando se les acerca.
+
+El Lobo Guardian: vigila el portal del Canon. No es necesario combatirlo: Finn usa la lata vacia de Pepsi para distraerlo y abrir el paso. El lobo la persigue y no resulta herido.
+
+PRÓLOGO — EL CUADERNO ABIERTO
+
+Finn encuentra un sobre junto a la fuente apagada. Dentro hay un dibujo de una botella de Pepsi, una pastilla de Mentos y una pregunta: «Si los juntamos, ¿aparecerá una sustancia nueva?».
+
+La nota no contiene instrucciones para hacer el experimento. Solo dice: «Primero observa. Después pregunta. No pruebes ni manipules materiales sin una persona adulta responsable».
+
+Finn guarda el papel. Para descubrir qué pasa, tendrá que cruzar el valle hasta el Observatorio de Ciencias.
+
+CAPÍTULO 1 — CINCO PISTAS EN EL VALLE
+
+La aventura se divide en tres mundos, cada uno con su propio paisaje, reto y pantalla de transicion. Al cruzar un portal, Finn entra a un mundo nuevo y aparece en su punto de partida. En el Valle del CO2, resuelve el acertijo del analizador para desbloquear Pepsi. En el Canon de las Mentas, supera el reto de la lupa para obtener los Mentos y distrae al Lobo Guardian con la lata vacia. En el Observatorio, resuelve el acertijo de seguridad para desbloquear las gafas. Los gatos de cada zona orientan a Finn con consejos.
+
+El camino al observatorio atraviesa una zona de pinos, un cañón pedregoso y el jardín exterior. En distintos puntos, Finn encuentra cinco páginas del cuaderno que el viento había desperdigado.
+
+La primera pista cuenta que una bebida carbonatada contiene dióxido de carbono (CO₂) disuelto. Dentro de una botella cerrada, la presión ayuda a mantener más gas en el líquido. Al abrirla, parte del gas puede escapar.
+
+La segunda muestra la superficie rugosa y llena de diminutas cavidades de un Mentos. Esas cavidades ofrecen muchos puntos donde pueden comenzar a crecer burbujas. La palabra científica para el inicio de la formación de burbujas es nucleación.
+
+La tercera página está casi en blanco. Finn debe completar dos columnas: «lo que veo» y «lo que creo que significa». «Sale espuma» es una observación. «Se creó un gas nuevo» es una explicación posible, pero todavía necesita pruebas.
+
+La cuarta pista tiene un dibujo del jardín, unas gafas de protección y una zona marcada para mantener al público a distancia. La seguridad no es un detalle que se añade al final: también se planea.
+
+La quinta recuerda que no todas las bebidas, temperaturas o recipientes producen el mismo resultado. Una comparación útil cambia una sola condición cada vez y anota lo que sucede, sin prometer que una única prueba explique todo.
+
+Cuando Finn reúne las cinco páginas, el observatorio abre sus puertas.
+
+CAPÍTULO 2 — LA HIPÓTESIS DE FINN
+
+La doctora Burbujas lo espera junto a una pizarra. Finn deja el dibujo sobre la mesa y dice:
+
+—Creo que Pepsi y Mentos reaccionan químicamente. Tal vez, al juntarlos, producen el gas que levanta la espuma.
+
+La doctora no se burla de su idea. Le pregunta qué tendría que observar si fuera cierta. Coloca sobre la mesa una botella de muestra cerrada, un Mentos de utilería y el cuaderno.
+
+—Una fuente alta llama la atención —dice la doctora—, pero su altura por sí sola no demuestra que apareciera una sustancia nueva. Busquemos de dónde viene el gas.
+
+Finn compara su hipótesis con las pistas. Si el gas nuevo naciera de una reacción, tendría que haber indicios de una transformación química. Si el CO₂ ya estaba disuelto, las burbujas podrían crecer deprisa cuando encuentren muchos lugares donde formarse.
+
+La doctora le enseña una lupa: la superficie del caramelo no es lisa. Sus pequeñas cavidades pueden actuar como sitios de nucleación. No crean átomos de gas; facilitan que el CO₂ que ya estaba disuelto salga del líquido en forma de burbujas.
+
+Finn añade una nueva pregunta al cuaderno: «¿Qué cambia al introducir el Mentos: la identidad de las sustancias o la rapidez con que escapa el gas?».
+
+CAPÍTULO 3 — PLANEAR LA MISIÓN
+
+La demostración del observatorio se llama «Pepsi + Mentos». Finn quiere unir los dos ingredientes y ver la fuente. La doctora explica que, aunque la gente suele decir «la reacción de Pepsi con Mentos», el espectáculo no es una reacción química entre ambos. Es una liberación rápida del CO₂ disuelto, favorecida por los puntos de nucleación del caramelo y por las propiedades de la bebida.
+
+Antes de observar, el equipo prepara un plan. Eligen el jardín abierto, una bandeja estable, protección ocular, supervisión adulta y espacio despejado. Nadie apunta el surtidor hacia otra persona; nadie cierra, agita o manipula una botella presurizada. El modelo de Finn es una animación del juego, no una invitación a probarlo sin ayuda.
+
+Finn comprueba el perímetro mientras la doctora prepara el cuaderno en un atril. Acuerdan detener la actividad si alguien entra en la zona de seguridad. Solo entonces el equipo está listo.
+
+CAPÍTULO 4 — PEPSI + MENTOS
+
+La doctora activa la fuente de demostración. En el modelo, el Mentos llega a la Pepsi y aparecen burbujas en muchos puntos a la vez. El CO₂ disuelto pasa rápidamente a la fase gaseosa; las burbujas crecen, ascienden y arrastran parte del líquido. La bandeja recoge la espuma dentro del área preparada.
+
+No hay humo, fuego ni un gas misterioso. Finn no ve una sustancia nueva que antes no estuviera allí. Ve salir, de golpe, mucho del gas que ya estaba disuelto en la bebida.
+
+—¡Parece una reacción! —dice Finn.
+
+—Parece espectacular —responde la doctora—. Pero el aspecto dramático no basta para llamarla reacción química. En esta demostración, el efecto principal es físico: nucleación y desgasificación rápida. El Mentos ayuda a que las burbujas empiecen; no fabrica CO₂.
+
+La fuente se apaga. Finn revisa sus notas: la espuma, la rapidez y la altura fueron observaciones; «se formó un compuesto nuevo» no quedó demostrado. Corrige su hipótesis en vez de esconder el error.
+
+CAPÍTULO 5 — UNA PREGUNTA MEJOR
+
+Con la zona ya despejada y la actividad terminada, el equipo conversa sobre cómo aprender más. Podrían comparar bebidas o temperaturas en pruebas separadas, medir la altura desde una distancia segura y registrar los resultados. Para que la comparación sirva, tendrían que mantener iguales las demás condiciones y repetirla con supervisión.
+
+La doctora también advierte que la altura del surtidor puede depender de varios factores: cuánto CO₂ tiene la bebida, su temperatura, la superficie del caramelo, la composición del líquido y la geometría del recipiente. Algunas explicaciones populares simplifican demasiado el fenómeno; un buen cuaderno distingue las observaciones de las causas que todavía se investigan.
+
+Finn deja escrita una conclusión cuidadosa: «Al añadir Mentos a una bebida carbonatada, se forman muchas burbujas con rapidez y el líquido puede salir en forma de fuente. La explicación principal es la salida del CO₂ disuelto en sitios de nucleación; esta demostración no prueba que Pepsi y Mentos hayan creado una sustancia nueva mediante una reacción química».
+
+EPÍLOGO — LA FUENTE VUELVE A CANTAR
+
+(En el juego: la fuente se enciende con luces, los gatos celebran y aparece el Certificado de científico honesto.)
+
+Al atardecer, la doctora abre la fuente del jardín. Esta vez el agua fluye por su mecanismo normal: la aventura no ha convertido Pepsi en combustible ni ha descubierto una fórmula secreta. La fuente vuelve a funcionar porque Finn y la doctora reajustan la válvula que cerraron para preparar la demostración.
+
+Finn entrega el cuaderno. Al principio llegó buscando una reacción química. Se marcha con algo mejor: una pregunta comprobable, observaciones honestas y una explicación más precisa. La ciencia no consiste en acertar a la primera; consiste en mirar de nuevo cuando la evidencia cuenta otra historia.
+
+—¿Cuál será tu próxima pregunta? —le dice la doctora.
+
+Finn mira una burbuja que sube por el agua y abre una página nueva.
+
+FIN
+
+GUÍA EDUCATIVA
+
+• Pepsi y otras bebidas carbonatadas contienen CO₂ disuelto; al bajar la presión, el gas puede salir de la disolución.
+• La superficie de Mentos tiene cavidades microscópicas que proporcionan muchos sitios de nucleación para las burbujas.
+• El surtidor se explica principalmente por nucleación y desgasificación rápida: el CO₂ ya estaba en la bebida.
+• En esta demostración no se atribuye el efecto principal a una reacción química que cree CO₂ nuevo.
+• La altura y rapidez dependen de más condiciones; una observación aislada no demuestra todas las causas.
+• El juego representa una demostración planificada al aire libre, con una persona adulta, protección ocular, una zona despejada y distancia para el público. No cierres ni agites recipientes presurizados, no apuntes una botella hacia nadie y no bebas materiales de una demostración.

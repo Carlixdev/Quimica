@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#07121d">
+<title>Finn y la Fuente de Burbujas</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="preload" href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700;800&family=Space+Grotesk:wght@400;500;600;700&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<link rel="preload" href="https://cdn-uicons.flaticon.com/4.0.0/uicons-regular-rounded/css/uicons-regular-rounded.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://cdn-uicons.flaticon.com/4.0.0/uicons-regular-rounded/css/uicons-regular-rounded.css"></noscript>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<main class="frame" id="frame">
+  <canvas id="game" width="1280" height="720" aria-label="Paisaje de ciudad en parallax para el juego de química"></canvas>
+  <div class="scene-shade" aria-hidden="true"></div>
+
+  <header class="topbar">
+    <a class="brand" href="#inicio" aria-label="Finn y la Fuente de Burbujas, inicio" id="brandLink">
+      <span class="brand-mark"><i class="fi fi-rr-flask" aria-hidden="true"></i></span>
+      <span class="brand-name">FINN <span>FUENTE DE BURBUJAS</span></span>
+    </a>
+    <div class="topbar-right">
+      <div class="mission" id="mission" hidden><span class="pill" id="step">PRÓLOGO</span><span id="task">La aventura comienza</span></div>
+      <button class="icon-button" id="fullscreenBtn" type="button" aria-label="Activar pantalla completa" title="Pantalla completa">
+        <i class="fi fi-rr-expand-arrows" aria-hidden="true"></i>
+      </button>
+    </div>
+  </header>
+
+  <aside class="materials-panel" id="materialsPanel" hidden aria-label="Materiales pendientes para la misión">
+    <div class="materials-heading"><span>MATERIALES</span><strong id="materialsCount">2 pendientes</strong></div>
+    <div class="material-row"><span><img class="material-icon" src="assets/Pepsi.png" alt="" onerror="this.style.display='none'">PEPSI</span><b id="colaStatus">BLOQUEADA</b></div>
+    <div class="material-row"><span><img class="material-icon" src="assets/Mentas.png" alt="" onerror="this.style.display='none'">MENTAS</span><b id="mentosStatus">BLOQUEADAS</b></div>
+    <div class="material-row equipment-row"><span>GAFAS · SEGURIDAD</span><b id="gogglesStatus">PENDIENTES</b></div>
+    <div class="clue-progress" id="clueProgress">PISTAS 0/5</div>
+  </aside>
+
+  <section class="home-screen" id="homeScreen" aria-labelledby="homeTitle">
+    <div class="home-copy">
+      <div class="eyebrow"><span class="eyebrow-dot"></span> AVENTURA · PLATAFORMAS · CIENCIA</div>
+      <h1 id="homeTitle">FINN<br><span>Y LA FUENTE<br>DE BURBUJAS</span></h1>
+      <p class="home-description">Tres mundos pixelados, gatos que orientan y un lobo guardián. Resuelve los retos y prepara la demostración.</p>
+      <div class="home-actions">
+        <button class="btn btn-primary" id="startBtn" type="button"><i class="fi fi-rr-play" aria-hidden="true"></i> INICIAR AVENTURA</button>
+        <button class="btn btn-quiet" id="howBtn" type="button">CONTROLES</button>
+      </div>
+      <div class="home-meta"><kbd>ENTER</kbd> iniciar <span class="meta-separator"></span> <kbd>F</kbd> pantalla completa <span class="meta-separator"></span> <kbd>G</kbd> ajustar sprites</div>
+    </div>
+  </section>
+
+  <div class="bottom" id="bottom" hidden>
+    <div class="hint" id="hint"><kbd>A</kbd><kbd>D</kbd> o <kbd>←</kbd><kbd>→</kbd> caminar <span>·</span> <kbd>ESPACIO</kbd> saltar <span>·</span> <kbd>E</kbd> interactuar</div>
+    <div class="mobile" aria-label="Controles táctiles"><button data-key="ArrowLeft" aria-label="Caminar a la izquierda">←</button><button data-key="Space" aria-label="Saltar">↑</button><button data-key="ArrowRight" aria-label="Caminar a la derecha">→</button><button data-key="KeyE" aria-label="Resolver o interactuar">E</button></div>
+  </div>
+
+  <div class="overlay hidden" id="overlay"><section class="dialog-card" id="card" role="dialog" aria-modal="true" aria-labelledby="dialogTitle"></section></div>
+</main>
+<script src="game.js"></script>
+</body>
+</html>

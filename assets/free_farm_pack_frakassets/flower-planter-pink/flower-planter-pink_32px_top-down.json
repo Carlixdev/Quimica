@@ -1,0 +1,335 @@
+{
+  "frames": [
+    {
+      "duration": 83,
+      "filename": "flower-planter-pink_Sway_South_00.png",
+      "frame": {
+        "h": 32,
+        "w": 32,
+        "x": 0,
+        "y": 0
+      },
+      "pixor": {
+        "action": "Sway",
+        "degrees": 0.0,
+        "id": "aaf600b3f4b79d63",
+        "index": 0,
+        "pivot": {
+          "x": 16,
+          "y": 24
+        },
+        "side": "South",
+        "tag": "Sway_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 32,
+        "w": 32
+      },
+      "spriteSourceSize": {
+        "h": 32,
+        "w": 32,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "flower-planter-pink_Sway_South_01.png",
+      "frame": {
+        "h": 32,
+        "w": 32,
+        "x": 32,
+        "y": 0
+      },
+      "pixor": {
+        "action": "Sway",
+        "degrees": 0.0,
+        "id": "909fd2843f7f519e",
+        "index": 1,
+        "pivot": {
+          "x": 16,
+          "y": 24
+        },
+        "side": "South",
+        "tag": "Sway_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 32,
+        "w": 32
+      },
+      "spriteSourceSize": {
+        "h": 32,
+        "w": 32,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "flower-planter-pink_Sway_South_02.png",
+      "frame": {
+        "h": 32,
+        "w": 32,
+        "x": 64,
+        "y": 0
+      },
+      "pixor": {
+        "action": "Sway",
+        "degrees": 0.0,
+        "id": "920754818d0b4e32",
+        "index": 2,
+        "pivot": {
+          "x": 16,
+          "y": 24
+        },
+        "side": "South",
+        "tag": "Sway_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 32,
+        "w": 32
+      },
+      "spriteSourceSize": {
+        "h": 32,
+        "w": 32,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "flower-planter-pink_Sway_South_03.png",
+      "frame": {
+        "h": 32,
+        "w": 32,
+        "x": 96,
+        "y": 0
+      },
+      "pixor": {
+        "action": "Sway",
+        "degrees": 0.0,
+        "id": "1ab058884f76cc91",
+        "index": 3,
+        "pivot": {
+          "x": 16,
+          "y": 24
+        },
+        "side": "South",
+        "tag": "Sway_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 32,
+        "w": 32
+      },
+      "spriteSourceSize": {
+        "h": 32,
+        "w": 32,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "flower-planter-pink_Sway_South_04.png",
+      "frame": {
+        "h": 32,
+        "w": 32,
+        "x": 128,
+        "y": 0
+      },
+      "pixor": {
+        "action": "Sway",
+        "degrees": 0.0,
+        "id": "4ce91d41ef89fb61",
+        "index": 4,
+        "pivot": {
+          "x": 16,
+          "y": 24
+        },
+        "side": "South",
+        "tag": "Sway_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 32,
+        "w": 32
+      },
+      "spriteSourceSize": {
+        "h": 32,
+        "w": 32,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "flower-planter-pink_Sway_South_05.png",
+      "frame": {
+        "h": 32,
+        "w": 32,
+        "x": 160,
+        "y": 0
+      },
+      "pixor": {
+        "action": "Sway",
+        "degrees": 0.0,
+        "id": "2ef0cdbf168981e5",
+        "index": 5,
+        "pivot": {
+          "x": 16,
+          "y": 24
+        },
+        "side": "South",
+        "tag": "Sway_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 32,
+        "w": 32
+      },
+      "spriteSourceSize": {
+        "h": 32,
+        "w": 32,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "flower-planter-pink_Sway_South_06.png",
+      "frame": {
+        "h": 32,
+        "w": 32,
+        "x": 192,
+        "y": 0
+      },
+      "pixor": {
+        "action": "Sway",
+        "degrees": 0.0,
+        "id": "8a4b0e506f338cfa",
+        "index": 6,
+        "pivot": {
+          "x": 16,
+          "y": 24
+        },
+        "side": "South",
+        "tag": "Sway_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 32,
+        "w": 32
+      },
+      "spriteSourceSize": {
+        "h": 32,
+        "w": 32,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "flower-planter-pink_Sway_South_07.png",
+      "frame": {
+        "h": 32,
+        "w": 32,
+        "x": 224,
+        "y": 0
+      },
+      "pixor": {
+        "action": "Sway",
+        "degrees": 0.0,
+        "id": "c9ed22d5685d63e4",
+        "index": 7,
+        "pivot": {
+          "x": 16,
+          "y": 24
+        },
+        "side": "South",
+        "tag": "Sway_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 32,
+        "w": 32
+      },
+      "spriteSourceSize": {
+        "h": 32,
+        "w": 32,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    }
+  ],
+  "meta": {
+    "app": "Pixor",
+    "format": "I8",
+    "frameTags": [
+      {
+        "color": "#000000ff",
+        "direction": "forward",
+        "from": 0,
+        "name": "Sway_South",
+        "to": 7
+      }
+    ],
+    "image": "flower-planter-pink_32px_top-down_outline_lit.png",
+    "layers": [
+      {
+        "blendMode": "normal",
+        "name": "final",
+        "opacity": 255
+      }
+    ],
+    "pixor": {
+      "cell": {
+        "h": 32,
+        "w": 32
+      },
+      "emission": "s_emission.png",
+      "pivot": {
+        "x": 16,
+        "y": 24
+      }
+    },
+    "scale": "1",
+    "size": {
+      "h": 32,
+      "w": 256
+    },
+    "slices": [
+      {
+        "color": "#0000ffff",
+        "keys": [
+          {
+            "bounds": {
+              "h": 32,
+              "w": 32,
+              "x": 0,
+              "y": 0
+            },
+            "frame": 0,
+            "pivot": {
+              "x": 16,
+              "y": 24
+            }
+          }
+        ],
+        "name": "pivot"
+      }
+    ],
+    "version": "2.1.0"
+  }
+}

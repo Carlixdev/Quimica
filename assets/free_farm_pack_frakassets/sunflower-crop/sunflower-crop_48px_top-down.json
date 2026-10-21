@@ -1,0 +1,410 @@
+{
+  "frames": [
+    {
+      "duration": 83,
+      "filename": "sunflower-crop_Grow_South_00.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "pixor": {
+        "action": "Grow",
+        "degrees": 0.0,
+        "id": "ccf37bf9207c0312",
+        "index": 0,
+        "pivot": {
+          "x": 24,
+          "y": 37
+        },
+        "side": "South",
+        "tag": "Grow_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "sunflower-crop_Grow_South_01.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 48,
+        "y": 0
+      },
+      "pixor": {
+        "action": "Grow",
+        "degrees": 0.0,
+        "id": "9ad783125fdf6eb7",
+        "index": 1,
+        "pivot": {
+          "x": 24,
+          "y": 37
+        },
+        "side": "South",
+        "tag": "Grow_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "sunflower-crop_Grow_South_02.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 96,
+        "y": 0
+      },
+      "pixor": {
+        "action": "Grow",
+        "degrees": 0.0,
+        "id": "68dc00a5c79dcb83",
+        "index": 2,
+        "pivot": {
+          "x": 24,
+          "y": 37
+        },
+        "side": "South",
+        "tag": "Grow_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "sunflower-crop_Grow_South_03.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 144,
+        "y": 0
+      },
+      "pixor": {
+        "action": "Grow",
+        "degrees": 0.0,
+        "id": "4074539e39f02504",
+        "index": 3,
+        "pivot": {
+          "x": 24,
+          "y": 37
+        },
+        "side": "South",
+        "tag": "Grow_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "sunflower-crop_Sway_South_00.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 48
+      },
+      "pixor": {
+        "action": "Sway",
+        "degrees": 0.0,
+        "id": "ae268504305ce57d",
+        "index": 0,
+        "pivot": {
+          "x": 24,
+          "y": 37
+        },
+        "side": "South",
+        "tag": "Sway_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "sunflower-crop_Sway_South_01.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 48,
+        "y": 48
+      },
+      "pixor": {
+        "action": "Sway",
+        "degrees": 0.0,
+        "id": "7a694a03ed1d3dfc",
+        "index": 1,
+        "pivot": {
+          "x": 24,
+          "y": 37
+        },
+        "side": "South",
+        "tag": "Sway_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "sunflower-crop_Sway_South_02.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 96,
+        "y": 48
+      },
+      "pixor": {
+        "action": "Sway",
+        "degrees": 0.0,
+        "id": "4bbb21ed8f590e78",
+        "index": 2,
+        "pivot": {
+          "x": 24,
+          "y": 37
+        },
+        "side": "South",
+        "tag": "Sway_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "sunflower-crop_Sway_South_03.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 144,
+        "y": 48
+      },
+      "pixor": {
+        "action": "Sway",
+        "degrees": 0.0,
+        "id": "fac4025c4251145f",
+        "index": 3,
+        "pivot": {
+          "x": 24,
+          "y": 37
+        },
+        "side": "South",
+        "tag": "Sway_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "sunflower-crop_Sway_South_04.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 192,
+        "y": 48
+      },
+      "pixor": {
+        "action": "Sway",
+        "degrees": 0.0,
+        "id": "50fa9f5ff6104c93",
+        "index": 4,
+        "pivot": {
+          "x": 24,
+          "y": 37
+        },
+        "side": "South",
+        "tag": "Sway_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "sunflower-crop_Sway_South_05.png",
+      "frame": {
+        "h": 48,
+        "w": 48,
+        "x": 240,
+        "y": 48
+      },
+      "pixor": {
+        "action": "Sway",
+        "degrees": 0.0,
+        "id": "0f791cd522ac5fcf",
+        "index": 5,
+        "pivot": {
+          "x": 24,
+          "y": 37
+        },
+        "side": "South",
+        "tag": "Sway_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 48,
+        "w": 48
+      },
+      "spriteSourceSize": {
+        "h": 48,
+        "w": 48,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    }
+  ],
+  "meta": {
+    "app": "Pixor",
+    "format": "I8",
+    "frameTags": [
+      {
+        "color": "#000000ff",
+        "direction": "forward",
+        "from": 0,
+        "name": "Grow_South",
+        "to": 3
+      },
+      {
+        "color": "#000000ff",
+        "direction": "forward",
+        "from": 4,
+        "name": "Sway_South",
+        "to": 9
+      }
+    ],
+    "image": "sunflower-crop_48px_top-down_outline_lit.png",
+    "layers": [
+      {
+        "blendMode": "normal",
+        "name": "final",
+        "opacity": 255
+      }
+    ],
+    "pixor": {
+      "cell": {
+        "h": 48,
+        "w": 48
+      },
+      "emission": "s_emission.png",
+      "pivot": {
+        "x": 24,
+        "y": 37
+      }
+    },
+    "scale": "1",
+    "size": {
+      "h": 96,
+      "w": 288
+    },
+    "slices": [
+      {
+        "color": "#0000ffff",
+        "keys": [
+          {
+            "bounds": {
+              "h": 48,
+              "w": 48,
+              "x": 0,
+              "y": 0
+            },
+            "frame": 0,
+            "pivot": {
+              "x": 24,
+              "y": 37
+            }
+          }
+        ],
+        "name": "pivot"
+      }
+    ],
+    "version": "2.1.0"
+  }
+}

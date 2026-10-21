@@ -1,0 +1,478 @@
+{
+  "frames": [
+    {
+      "duration": 83,
+      "filename": "mailbox-red_Close_South_00.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "pixor": {
+        "action": "Close",
+        "degrees": 0.0,
+        "id": "d92f77f8fe722ba9",
+        "index": 0,
+        "pivot": {
+          "x": 39,
+          "y": 55
+        },
+        "side": "South",
+        "tag": "Close_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "mailbox-red_Close_South_01.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 64,
+        "y": 0
+      },
+      "pixor": {
+        "action": "Close",
+        "degrees": 0.0,
+        "id": "f65e199ee0b7d538",
+        "index": 1,
+        "pivot": {
+          "x": 39,
+          "y": 55
+        },
+        "side": "South",
+        "tag": "Close_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "mailbox-red_Close_South_02.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 128,
+        "y": 0
+      },
+      "pixor": {
+        "action": "Close",
+        "degrees": 0.0,
+        "id": "4f5ae6e547a0413c",
+        "index": 2,
+        "pivot": {
+          "x": 39,
+          "y": 55
+        },
+        "side": "South",
+        "tag": "Close_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "mailbox-red_Close_South_03.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 192,
+        "y": 0
+      },
+      "pixor": {
+        "action": "Close",
+        "degrees": 0.0,
+        "id": "33ee3af493b7c4eb",
+        "index": 3,
+        "pivot": {
+          "x": 39,
+          "y": 55
+        },
+        "side": "South",
+        "tag": "Close_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "mailbox-red_Close_South_04.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 256,
+        "y": 0
+      },
+      "pixor": {
+        "action": "Close",
+        "degrees": 0.0,
+        "id": "72122374255b1887",
+        "index": 4,
+        "pivot": {
+          "x": 39,
+          "y": 55
+        },
+        "side": "South",
+        "tag": "Close_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "mailbox-red_Close_South_05.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 320,
+        "y": 0
+      },
+      "pixor": {
+        "action": "Close",
+        "degrees": 0.0,
+        "id": "5c01d6a133c0057b",
+        "index": 5,
+        "pivot": {
+          "x": 39,
+          "y": 55
+        },
+        "side": "South",
+        "tag": "Close_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "mailbox-red_Open_South_00.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 64
+      },
+      "pixor": {
+        "action": "Open",
+        "degrees": 0.0,
+        "id": "d76db1d1c169dcd4",
+        "index": 0,
+        "pivot": {
+          "x": 39,
+          "y": 55
+        },
+        "side": "South",
+        "tag": "Open_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "mailbox-red_Open_South_01.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 64,
+        "y": 64
+      },
+      "pixor": {
+        "action": "Open",
+        "degrees": 0.0,
+        "id": "3ead4170771b7955",
+        "index": 1,
+        "pivot": {
+          "x": 39,
+          "y": 55
+        },
+        "side": "South",
+        "tag": "Open_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "mailbox-red_Open_South_02.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 128,
+        "y": 64
+      },
+      "pixor": {
+        "action": "Open",
+        "degrees": 0.0,
+        "id": "3cb26c5766d1ebc1",
+        "index": 2,
+        "pivot": {
+          "x": 39,
+          "y": 55
+        },
+        "side": "South",
+        "tag": "Open_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "mailbox-red_Open_South_03.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 192,
+        "y": 64
+      },
+      "pixor": {
+        "action": "Open",
+        "degrees": 0.0,
+        "id": "086ced46a13b8942",
+        "index": 3,
+        "pivot": {
+          "x": 39,
+          "y": 55
+        },
+        "side": "South",
+        "tag": "Open_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "mailbox-red_Open_South_04.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 256,
+        "y": 64
+      },
+      "pixor": {
+        "action": "Open",
+        "degrees": 0.0,
+        "id": "e1d92f44f9d87c06",
+        "index": 4,
+        "pivot": {
+          "x": 39,
+          "y": 55
+        },
+        "side": "South",
+        "tag": "Open_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "mailbox-red_Open_South_05.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 320,
+        "y": 64
+      },
+      "pixor": {
+        "action": "Open",
+        "degrees": 0.0,
+        "id": "126b7e2ba40b7232",
+        "index": 5,
+        "pivot": {
+          "x": 39,
+          "y": 55
+        },
+        "side": "South",
+        "tag": "Open_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    }
+  ],
+  "meta": {
+    "app": "Pixor",
+    "format": "I8",
+    "frameTags": [
+      {
+        "color": "#000000ff",
+        "direction": "forward",
+        "from": 0,
+        "name": "Close_South",
+        "to": 5
+      },
+      {
+        "color": "#000000ff",
+        "direction": "forward",
+        "from": 6,
+        "name": "Open_South",
+        "to": 11
+      }
+    ],
+    "image": "mailbox-red_64px_top-down_outline_lit.png",
+    "layers": [
+      {
+        "blendMode": "normal",
+        "name": "final",
+        "opacity": 255
+      }
+    ],
+    "pixor": {
+      "cell": {
+        "h": 64,
+        "w": 64
+      },
+      "emission": "s_emission.png",
+      "pivot": {
+        "x": 39,
+        "y": 55
+      }
+    },
+    "scale": "1",
+    "size": {
+      "h": 128,
+      "w": 384
+    },
+    "slices": [
+      {
+        "color": "#0000ffff",
+        "keys": [
+          {
+            "bounds": {
+              "h": 64,
+              "w": 64,
+              "x": 0,
+              "y": 0
+            },
+            "frame": 0,
+            "pivot": {
+              "x": 39,
+              "y": 55
+            }
+          }
+        ],
+        "name": "pivot"
+      }
+    ],
+    "version": "2.1.0"
+  }
+}

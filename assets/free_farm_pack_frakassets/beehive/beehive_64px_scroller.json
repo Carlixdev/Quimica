@@ -1,0 +1,471 @@
+{
+  "frames": [
+    {
+      "duration": 83,
+      "filename": "beehive_Buzz_South_00.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "pixor": {
+        "action": "Buzz",
+        "degrees": 0.0,
+        "id": "ee5776b4e77cf6af",
+        "index": 0,
+        "pivot": {
+          "x": 31,
+          "y": 52
+        },
+        "side": "South",
+        "tag": "Buzz_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "beehive_Buzz_South_01.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 64,
+        "y": 0
+      },
+      "pixor": {
+        "action": "Buzz",
+        "degrees": 0.0,
+        "id": "419fc54a66fc7c8a",
+        "index": 1,
+        "pivot": {
+          "x": 31,
+          "y": 52
+        },
+        "side": "South",
+        "tag": "Buzz_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "beehive_Buzz_South_02.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 128,
+        "y": 0
+      },
+      "pixor": {
+        "action": "Buzz",
+        "degrees": 0.0,
+        "id": "ad084b06358d93d6",
+        "index": 2,
+        "pivot": {
+          "x": 31,
+          "y": 52
+        },
+        "side": "South",
+        "tag": "Buzz_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "beehive_Buzz_South_03.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 192,
+        "y": 0
+      },
+      "pixor": {
+        "action": "Buzz",
+        "degrees": 0.0,
+        "id": "93c358e8c087332d",
+        "index": 3,
+        "pivot": {
+          "x": 31,
+          "y": 52
+        },
+        "side": "South",
+        "tag": "Buzz_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "beehive_Buzz_South_04.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 256,
+        "y": 0
+      },
+      "pixor": {
+        "action": "Buzz",
+        "degrees": 0.0,
+        "id": "32531ef2b8cb6b45",
+        "index": 4,
+        "pivot": {
+          "x": 31,
+          "y": 52
+        },
+        "side": "South",
+        "tag": "Buzz_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "beehive_Buzz_South_05.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 320,
+        "y": 0
+      },
+      "pixor": {
+        "action": "Buzz",
+        "degrees": 0.0,
+        "id": "ccb9da775a63eb01",
+        "index": 5,
+        "pivot": {
+          "x": 31,
+          "y": 52
+        },
+        "side": "South",
+        "tag": "Buzz_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "beehive_Buzz_South_06.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 384,
+        "y": 0
+      },
+      "pixor": {
+        "action": "Buzz",
+        "degrees": 0.0,
+        "id": "8e0f45b141d3c1fe",
+        "index": 6,
+        "pivot": {
+          "x": 31,
+          "y": 52
+        },
+        "side": "South",
+        "tag": "Buzz_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "beehive_Buzz_South_07.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 448,
+        "y": 0
+      },
+      "pixor": {
+        "action": "Buzz",
+        "degrees": 0.0,
+        "id": "52aa074c843bd418",
+        "index": 7,
+        "pivot": {
+          "x": 31,
+          "y": 52
+        },
+        "side": "South",
+        "tag": "Buzz_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "beehive_Buzz_South_08.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 512,
+        "y": 0
+      },
+      "pixor": {
+        "action": "Buzz",
+        "degrees": 0.0,
+        "id": "e06d7755a2a8f374",
+        "index": 8,
+        "pivot": {
+          "x": 31,
+          "y": 52
+        },
+        "side": "South",
+        "tag": "Buzz_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "beehive_Buzz_South_09.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 576,
+        "y": 0
+      },
+      "pixor": {
+        "action": "Buzz",
+        "degrees": 0.0,
+        "id": "ea6d1078f5675337",
+        "index": 9,
+        "pivot": {
+          "x": 31,
+          "y": 52
+        },
+        "side": "South",
+        "tag": "Buzz_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "beehive_Buzz_South_10.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 640,
+        "y": 0
+      },
+      "pixor": {
+        "action": "Buzz",
+        "degrees": 0.0,
+        "id": "9d892f79555e61df",
+        "index": 10,
+        "pivot": {
+          "x": 31,
+          "y": 52
+        },
+        "side": "South",
+        "tag": "Buzz_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "beehive_Buzz_South_11.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 704,
+        "y": 0
+      },
+      "pixor": {
+        "action": "Buzz",
+        "degrees": 0.0,
+        "id": "5c8150827a86e0ab",
+        "index": 11,
+        "pivot": {
+          "x": 31,
+          "y": 52
+        },
+        "side": "South",
+        "tag": "Buzz_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    }
+  ],
+  "meta": {
+    "app": "Pixor",
+    "format": "I8",
+    "frameTags": [
+      {
+        "color": "#000000ff",
+        "direction": "forward",
+        "from": 0,
+        "name": "Buzz_South",
+        "to": 11
+      }
+    ],
+    "image": "beehive_64px_scroller_outline_lit.png",
+    "layers": [
+      {
+        "blendMode": "normal",
+        "name": "final",
+        "opacity": 255
+      }
+    ],
+    "pixor": {
+      "cell": {
+        "h": 64,
+        "w": 64
+      },
+      "emission": "s_emission.png",
+      "pivot": {
+        "x": 31,
+        "y": 52
+      }
+    },
+    "scale": "1",
+    "size": {
+      "h": 64,
+      "w": 768
+    },
+    "slices": [
+      {
+        "color": "#0000ffff",
+        "keys": [
+          {
+            "bounds": {
+              "h": 64,
+              "w": 64,
+              "x": 0,
+              "y": 0
+            },
+            "frame": 0,
+            "pivot": {
+              "x": 31,
+              "y": 52
+            }
+          }
+        ],
+        "name": "pivot"
+      }
+    ],
+    "version": "2.1.0"
+  }
+}

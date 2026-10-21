@@ -1,0 +1,267 @@
+{
+  "frames": [
+    {
+      "duration": 83,
+      "filename": "water-pump_Pump_South_00.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "pixor": {
+        "action": "Pump",
+        "degrees": 0.0,
+        "id": "788bf3fc85a96191",
+        "index": 0,
+        "pivot": {
+          "x": 7,
+          "y": 11
+        },
+        "side": "South",
+        "tag": "Pump_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "water-pump_Pump_South_01.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 16,
+        "y": 0
+      },
+      "pixor": {
+        "action": "Pump",
+        "degrees": 0.0,
+        "id": "6fd896ad2d33f8e0",
+        "index": 1,
+        "pivot": {
+          "x": 7,
+          "y": 11
+        },
+        "side": "South",
+        "tag": "Pump_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "water-pump_Pump_South_02.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 32,
+        "y": 0
+      },
+      "pixor": {
+        "action": "Pump",
+        "degrees": 0.0,
+        "id": "0428199def8a17e4",
+        "index": 2,
+        "pivot": {
+          "x": 7,
+          "y": 11
+        },
+        "side": "South",
+        "tag": "Pump_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "water-pump_Pump_South_03.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 48,
+        "y": 0
+      },
+      "pixor": {
+        "action": "Pump",
+        "degrees": 0.0,
+        "id": "08d19c282aea3263",
+        "index": 3,
+        "pivot": {
+          "x": 7,
+          "y": 11
+        },
+        "side": "South",
+        "tag": "Pump_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "water-pump_Pump_South_04.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 64,
+        "y": 0
+      },
+      "pixor": {
+        "action": "Pump",
+        "degrees": 0.0,
+        "id": "420ccefd64040bdf",
+        "index": 4,
+        "pivot": {
+          "x": 7,
+          "y": 11
+        },
+        "side": "South",
+        "tag": "Pump_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "water-pump_Pump_South_05.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 80,
+        "y": 0
+      },
+      "pixor": {
+        "action": "Pump",
+        "degrees": 0.0,
+        "id": "9e61084ddd1e7aa3",
+        "index": 5,
+        "pivot": {
+          "x": 7,
+          "y": 11
+        },
+        "side": "South",
+        "tag": "Pump_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    }
+  ],
+  "meta": {
+    "app": "Pixor",
+    "format": "I8",
+    "frameTags": [
+      {
+        "color": "#000000ff",
+        "direction": "forward",
+        "from": 0,
+        "name": "Pump_South",
+        "to": 5
+      }
+    ],
+    "image": "water-pump_16px_top-down_outline_lit.png",
+    "layers": [
+      {
+        "blendMode": "normal",
+        "name": "final",
+        "opacity": 255
+      }
+    ],
+    "pixor": {
+      "cell": {
+        "h": 16,
+        "w": 16
+      },
+      "emission": "s_emission.png",
+      "pivot": {
+        "x": 7,
+        "y": 11
+      }
+    },
+    "scale": "1",
+    "size": {
+      "h": 16,
+      "w": 96
+    },
+    "slices": [
+      {
+        "color": "#0000ffff",
+        "keys": [
+          {
+            "bounds": {
+              "h": 16,
+              "w": 16,
+              "x": 0,
+              "y": 0
+            },
+            "frame": 0,
+            "pivot": {
+              "x": 7,
+              "y": 11
+            }
+          }
+        ],
+        "name": "pivot"
+      }
+    ],
+    "version": "2.1.0"
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "name": "Werewolf Berserker - Pixel Art Character",
+  "frame_size": [
+    88,
+    88
+  ],
+  "character_base_size": [
+    64,
+    64
+  ],
+  "directions": [
+    "south",
+    "south-east",
+    "east",
+    "north-east",
+    "north",
+    "north-west",
+    "west",
+    "south-west"
+  ],
+  "shadow": "baked into every frame",
+  "animations": {
+    "idle": {
+      "title": "Idle",
+      "frames_per_direction": {
+        "south": 9,
+        "south-east": 9,
+        "east": 9,
+        "north-east": 9,
+        "north": 9,
+        "north-west": 9,
+        "west": 9,
+        "south-west": 9
+      },
+      "suggested_ms_per_frame": 130,
+      "loop": true,
+      "spritesheet": "spritesheets/idle.png",
+      "sheet_layout": "rows = directions in the order listed above, columns = frames"
+    },
+    "walk": {
+      "title": "Walk",
+      "frames_per_direction": {
+        "south": 9,
+        "south-east": 9,
+        "east": 9,
+        "north-east": 11,
+        "north": 9,
+        "north-west": 11,
+        "west": 9,
+        "south-west": 9
+      },
+      "suggested_ms_per_frame": 90,
+      "loop": true,
+      "spritesheet": "spritesheets/walk.png",
+      "sheet_layout": "rows = directions in the order listed above, columns = frames"
+    },
+    "skill1_claw_combo": {
+      "title": "Skill 1 - Savage Claw Combo",
+      "frames_per_direction": {
+        "south": 16,
+        "south-east": 16,
+        "east": 16,
+        "north-east": 18,
+        "north": 18,
+        "north-west": 18,
+        "west": 16,
+        "south-west": 16
+      },
+      "suggested_ms_per_frame": 60,
+      "loop": false,
+      "spritesheet": "spritesheets/skill1_claw_combo.png",
+      "sheet_layout": "rows = directions in the order listed above, columns = frames"
+    }
+  }
+}

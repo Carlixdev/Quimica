@@ -1,0 +1,410 @@
+{
+  "frames": [
+    {
+      "duration": 83,
+      "filename": "carrot-crop_Grow_South_00.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "pixor": {
+        "action": "Grow",
+        "degrees": 0.0,
+        "id": "4426f7d5057b8f27",
+        "index": 0,
+        "pivot": {
+          "x": 32,
+          "y": 46
+        },
+        "side": "South",
+        "tag": "Grow_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "carrot-crop_Grow_South_01.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 64,
+        "y": 0
+      },
+      "pixor": {
+        "action": "Grow",
+        "degrees": 0.0,
+        "id": "8103455a36605ce2",
+        "index": 1,
+        "pivot": {
+          "x": 32,
+          "y": 46
+        },
+        "side": "South",
+        "tag": "Grow_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "carrot-crop_Grow_South_02.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 128,
+        "y": 0
+      },
+      "pixor": {
+        "action": "Grow",
+        "degrees": 0.0,
+        "id": "5237167d30ab7fae",
+        "index": 2,
+        "pivot": {
+          "x": 32,
+          "y": 46
+        },
+        "side": "South",
+        "tag": "Grow_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "carrot-crop_Grow_South_03.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 192,
+        "y": 0
+      },
+      "pixor": {
+        "action": "Grow",
+        "degrees": 0.0,
+        "id": "4681f4d481608635",
+        "index": 3,
+        "pivot": {
+          "x": 32,
+          "y": 46
+        },
+        "side": "South",
+        "tag": "Grow_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "carrot-crop_Sway_South_00.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 64
+      },
+      "pixor": {
+        "action": "Sway",
+        "degrees": 0.0,
+        "id": "f5d67e40711544b0",
+        "index": 0,
+        "pivot": {
+          "x": 32,
+          "y": 46
+        },
+        "side": "South",
+        "tag": "Sway_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "carrot-crop_Sway_South_01.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 64,
+        "y": 64
+      },
+      "pixor": {
+        "action": "Sway",
+        "degrees": 0.0,
+        "id": "e912569891452bc1",
+        "index": 1,
+        "pivot": {
+          "x": 32,
+          "y": 46
+        },
+        "side": "South",
+        "tag": "Sway_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "carrot-crop_Sway_South_02.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 128,
+        "y": 64
+      },
+      "pixor": {
+        "action": "Sway",
+        "degrees": 0.0,
+        "id": "eb0d2bb1a18eb955",
+        "index": 2,
+        "pivot": {
+          "x": 32,
+          "y": 46
+        },
+        "side": "South",
+        "tag": "Sway_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "carrot-crop_Sway_South_03.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 192,
+        "y": 64
+      },
+      "pixor": {
+        "action": "Sway",
+        "degrees": 0.0,
+        "id": "4700ea2a5445bb4e",
+        "index": 3,
+        "pivot": {
+          "x": 32,
+          "y": 46
+        },
+        "side": "South",
+        "tag": "Sway_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "carrot-crop_Sway_South_04.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 256,
+        "y": 64
+      },
+      "pixor": {
+        "action": "Sway",
+        "degrees": 0.0,
+        "id": "532f091419b1e9ba",
+        "index": 4,
+        "pivot": {
+          "x": 32,
+          "y": 46
+        },
+        "side": "South",
+        "tag": "Sway_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "carrot-crop_Sway_South_05.png",
+      "frame": {
+        "h": 64,
+        "w": 64,
+        "x": 320,
+        "y": 64
+      },
+      "pixor": {
+        "action": "Sway",
+        "degrees": 0.0,
+        "id": "e2a130c5c33dd89e",
+        "index": 5,
+        "pivot": {
+          "x": 32,
+          "y": 46
+        },
+        "side": "South",
+        "tag": "Sway_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 64,
+        "w": 64
+      },
+      "spriteSourceSize": {
+        "h": 64,
+        "w": 64,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    }
+  ],
+  "meta": {
+    "app": "Pixor",
+    "format": "I8",
+    "frameTags": [
+      {
+        "color": "#000000ff",
+        "direction": "forward",
+        "from": 0,
+        "name": "Grow_South",
+        "to": 3
+      },
+      {
+        "color": "#000000ff",
+        "direction": "forward",
+        "from": 4,
+        "name": "Sway_South",
+        "to": 9
+      }
+    ],
+    "image": "carrot-crop_64px_top-down_outline_lit.png",
+    "layers": [
+      {
+        "blendMode": "normal",
+        "name": "final",
+        "opacity": 255
+      }
+    ],
+    "pixor": {
+      "cell": {
+        "h": 64,
+        "w": 64
+      },
+      "emission": "s_emission.png",
+      "pivot": {
+        "x": 32,
+        "y": 46
+      }
+    },
+    "scale": "1",
+    "size": {
+      "h": 128,
+      "w": 384
+    },
+    "slices": [
+      {
+        "color": "#0000ffff",
+        "keys": [
+          {
+            "bounds": {
+              "h": 64,
+              "w": 64,
+              "x": 0,
+              "y": 0
+            },
+            "frame": 0,
+            "pivot": {
+              "x": 32,
+              "y": 46
+            }
+          }
+        ],
+        "name": "pivot"
+      }
+    ],
+    "version": "2.1.0"
+  }
+}

@@ -1,0 +1,5 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+https://creativecommons.org/licenses/by/4.0/
+
+You may use these sprites in any project, commercial or not, and change them,
+as long as you credit "Frakassets" (for example in your game's credits).

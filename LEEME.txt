@@ -1,0 +1,55 @@
+FINN Y LA FUENTE DE BURBUJAS
+
+ABRIR JuegoQuimica.html en un navegador moderno para jugar.
+El juego funciona con los archivos locales; las fuentes y algunos iconos
+opcionales se cargan de internet.
+
+ARCHIVOS
+JuegoQuimica.html       Estructura y menú del juego.
+styles.css              Presentación, controles táctiles y diseño adaptable.
+game.js                 Movimiento, escenas, interacciones y parallax.
+historia.txt            Historia completa y guía educativa.
+FinnSprite.png          Tira de animación del personaje durante el juego.
+FinnInstruction.png     Animación de Finn que acompaña la guía de controles.
+assets/parallax/        Capas de ciudad y atardecer del recorrido.
+assets/stringstar fields/ Fondos estrellados en capas para el observatorio.
+assets/Lush and Shrubs v1.3.3/ Arbustos, helechos, flores y piedras del camino.
+assets/Free pack/cat 1.6.png Gatos pixel art animados que orientan a Finn en los tres mundos.
+assets/Pepsi.png Lata de Pepsi mostrada en la mision y en el inventario.
+assets/Mentas.png Mentas mostradas en la mision y en el inventario.
+assets/Werewolf_Berserker_FREE/spritesheets/ Lobo animado del reto del portal; huye al distraerlo con la lata.
+assets/Werewolf_Berserker_FREE/ Sprites adicionales incluidos en el proyecto.
+
+CONTROLES
+A / D o flechas izquierda / derecha: caminar.
+Espacio, W o flecha arriba: saltar.
+E: resolver los acertijos de las estaciones e interactuar con personajes y lugares.
+F: activar o salir de pantalla completa.
+G: calibrar los sprites del lobo y los gatos (elige la fila que mira a cada lado; se guarda en el navegador).
+Borde izquierdo de un mundo: regresar al mundo anterior (lo resuelto se conserva).
+En pantallas táctiles aparecen botones para caminar, saltar e interactuar.
+
+RECORRIDO
+Mundo 1 - Valle del CO2: resuelve el analizador para desbloquear Pepsi.
+Mundo 2 - Canon de las Mentas: resuelve la lupa y distrae al lobo guardian para abrir el portal.
+Mundo 3 - Observatorio del Jardin: resuelve el reto de seguridad para desbloquear las gafas.
+Cada respuesta correcta abre el acceso al siguiente mapa; una respuesta incorrecta muestra una pista.
+Recoge también las cinco páginas del cuaderno antes de hablar con la doctora.
+
+La misión se titula «Pepsi + Mentos». Resuelve los acertijos de cada nivel
+para desbloquear sus materiales, reúne las cinco pistas, llega al observatorio
+y ayuda a Finn a comprobar su hipótesis. El juego aclara que la
+fuente se debe principalmente a la salida del CO2 disuelto en puntos de
+nucleación; no presenta el fenómeno como una reacción que cree gas nuevo.
+
+EPÍLOGO
+Tras la demostración guiada (con zona de seguridad), el cuaderno de Finn
+(«lo que veo» vs «lo que creo») y la pregunta final, empieza un epílogo animado:
+la fuente vuelve a cantar con luces, fuegos artificiales de burbujas y confeti.
+Al terminar aparece el Certificado de científico honesto, con estrellas según los
+errores cometidos y un espacio para escribir tu próxima pregunta.
+
+SI UN SPRITE SE VE MAL
+Pulsa G dentro del juego. Si los gatos o el lobo se ven de espaldas o de frente,
+elige la fila correcta en el calibrador. Los valores por defecto están en
+DEFAULT_SPRITES al principio de game.js.

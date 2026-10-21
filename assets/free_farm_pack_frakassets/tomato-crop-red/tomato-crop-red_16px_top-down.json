@@ -1,0 +1,410 @@
+{
+  "frames": [
+    {
+      "duration": 83,
+      "filename": "tomato-crop-red_Grow_South_00.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "pixor": {
+        "action": "Grow",
+        "degrees": 0.0,
+        "id": "d3a6fe0e1bc1fd74",
+        "index": 0,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "South",
+        "tag": "Grow_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "tomato-crop-red_Grow_South_01.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 16,
+        "y": 0
+      },
+      "pixor": {
+        "action": "Grow",
+        "degrees": 0.0,
+        "id": "1728632f7f260df5",
+        "index": 1,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "South",
+        "tag": "Grow_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "tomato-crop-red_Grow_South_02.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 32,
+        "y": 0
+      },
+      "pixor": {
+        "action": "Grow",
+        "degrees": 0.0,
+        "id": "119f2a6fc6e49221",
+        "index": 2,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "South",
+        "tag": "Grow_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "tomato-crop-red_Grow_South_03.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 48,
+        "y": 0
+      },
+      "pixor": {
+        "action": "Grow",
+        "degrees": 0.0,
+        "id": "cab7d5dc50b892a2",
+        "index": 3,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "South",
+        "tag": "Grow_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "tomato-crop-red_Sway_South_00.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 16
+      },
+      "pixor": {
+        "action": "Sway",
+        "degrees": 0.0,
+        "id": "fe2be3ad60ce5787",
+        "index": 0,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "South",
+        "tag": "Sway_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "tomato-crop-red_Sway_South_01.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 16,
+        "y": 16
+      },
+      "pixor": {
+        "action": "Sway",
+        "degrees": 0.0,
+        "id": "dec98c077370bcc2",
+        "index": 1,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "South",
+        "tag": "Sway_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "tomato-crop-red_Sway_South_02.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 32,
+        "y": 16
+      },
+      "pixor": {
+        "action": "Sway",
+        "degrees": 0.0,
+        "id": "4bc05453b9bc8bce",
+        "index": 2,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "South",
+        "tag": "Sway_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "tomato-crop-red_Sway_South_03.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 48,
+        "y": 16
+      },
+      "pixor": {
+        "action": "Sway",
+        "degrees": 0.0,
+        "id": "efcc95db070589d5",
+        "index": 3,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "South",
+        "tag": "Sway_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "tomato-crop-red_Sway_South_04.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 64,
+        "y": 16
+      },
+      "pixor": {
+        "action": "Sway",
+        "degrees": 0.0,
+        "id": "ec633a2061999b8d",
+        "index": 4,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "South",
+        "tag": "Sway_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "tomato-crop-red_Sway_South_05.png",
+      "frame": {
+        "h": 16,
+        "w": 16,
+        "x": 80,
+        "y": 16
+      },
+      "pixor": {
+        "action": "Sway",
+        "degrees": 0.0,
+        "id": "6aa1e3c0972e83f9",
+        "index": 5,
+        "pivot": {
+          "x": 8,
+          "y": 11
+        },
+        "side": "South",
+        "tag": "Sway_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 16,
+        "w": 16
+      },
+      "spriteSourceSize": {
+        "h": 16,
+        "w": 16,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    }
+  ],
+  "meta": {
+    "app": "Pixor",
+    "format": "I8",
+    "frameTags": [
+      {
+        "color": "#000000ff",
+        "direction": "forward",
+        "from": 0,
+        "name": "Grow_South",
+        "to": 3
+      },
+      {
+        "color": "#000000ff",
+        "direction": "forward",
+        "from": 4,
+        "name": "Sway_South",
+        "to": 9
+      }
+    ],
+    "image": "tomato-crop-red_16px_top-down_outline_lit.png",
+    "layers": [
+      {
+        "blendMode": "normal",
+        "name": "final",
+        "opacity": 255
+      }
+    ],
+    "pixor": {
+      "cell": {
+        "h": 16,
+        "w": 16
+      },
+      "emission": "s_emission.png",
+      "pivot": {
+        "x": 8,
+        "y": 11
+      }
+    },
+    "scale": "1",
+    "size": {
+      "h": 32,
+      "w": 96
+    },
+    "slices": [
+      {
+        "color": "#0000ffff",
+        "keys": [
+          {
+            "bounds": {
+              "h": 16,
+              "w": 16,
+              "x": 0,
+              "y": 0
+            },
+            "frame": 0,
+            "pivot": {
+              "x": 8,
+              "y": 11
+            }
+          }
+        ],
+        "name": "pivot"
+      }
+    ],
+    "version": "2.1.0"
+  }
+}

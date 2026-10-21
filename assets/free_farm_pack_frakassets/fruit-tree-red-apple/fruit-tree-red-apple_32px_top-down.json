@@ -1,0 +1,335 @@
+{
+  "frames": [
+    {
+      "duration": 83,
+      "filename": "fruit-tree-red-apple_Sway_South_00.png",
+      "frame": {
+        "h": 32,
+        "w": 32,
+        "x": 0,
+        "y": 0
+      },
+      "pixor": {
+        "action": "Sway",
+        "degrees": 0.0,
+        "id": "c54584e132e16db6",
+        "index": 0,
+        "pivot": {
+          "x": 16,
+          "y": 26
+        },
+        "side": "South",
+        "tag": "Sway_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 32,
+        "w": 32
+      },
+      "spriteSourceSize": {
+        "h": 32,
+        "w": 32,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "fruit-tree-red-apple_Sway_South_01.png",
+      "frame": {
+        "h": 32,
+        "w": 32,
+        "x": 32,
+        "y": 0
+      },
+      "pixor": {
+        "action": "Sway",
+        "degrees": 0.0,
+        "id": "cadc06a3f6d58d3b",
+        "index": 1,
+        "pivot": {
+          "x": 16,
+          "y": 26
+        },
+        "side": "South",
+        "tag": "Sway_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 32,
+        "w": 32
+      },
+      "spriteSourceSize": {
+        "h": 32,
+        "w": 32,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "fruit-tree-red-apple_Sway_South_02.png",
+      "frame": {
+        "h": 32,
+        "w": 32,
+        "x": 64,
+        "y": 0
+      },
+      "pixor": {
+        "action": "Sway",
+        "degrees": 0.0,
+        "id": "f7979f62fb14ebcf",
+        "index": 2,
+        "pivot": {
+          "x": 16,
+          "y": 26
+        },
+        "side": "South",
+        "tag": "Sway_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 32,
+        "w": 32
+      },
+      "spriteSourceSize": {
+        "h": 32,
+        "w": 32,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "fruit-tree-red-apple_Sway_South_03.png",
+      "frame": {
+        "h": 32,
+        "w": 32,
+        "x": 96,
+        "y": 0
+      },
+      "pixor": {
+        "action": "Sway",
+        "degrees": 0.0,
+        "id": "63d7e551f0622fc8",
+        "index": 3,
+        "pivot": {
+          "x": 16,
+          "y": 26
+        },
+        "side": "South",
+        "tag": "Sway_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 32,
+        "w": 32
+      },
+      "spriteSourceSize": {
+        "h": 32,
+        "w": 32,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "fruit-tree-red-apple_Sway_South_04.png",
+      "frame": {
+        "h": 32,
+        "w": 32,
+        "x": 128,
+        "y": 0
+      },
+      "pixor": {
+        "action": "Sway",
+        "degrees": 0.0,
+        "id": "9bea7d75ecdb3d50",
+        "index": 4,
+        "pivot": {
+          "x": 16,
+          "y": 26
+        },
+        "side": "South",
+        "tag": "Sway_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 32,
+        "w": 32
+      },
+      "spriteSourceSize": {
+        "h": 32,
+        "w": 32,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "fruit-tree-red-apple_Sway_South_05.png",
+      "frame": {
+        "h": 32,
+        "w": 32,
+        "x": 160,
+        "y": 0
+      },
+      "pixor": {
+        "action": "Sway",
+        "degrees": 0.0,
+        "id": "b80417c8c9e58b34",
+        "index": 5,
+        "pivot": {
+          "x": 16,
+          "y": 26
+        },
+        "side": "South",
+        "tag": "Sway_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 32,
+        "w": 32
+      },
+      "spriteSourceSize": {
+        "h": 32,
+        "w": 32,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 83,
+      "filename": "fruit-tree-red-apple_Sway_South_06.png",
+      "frame": {
+        "h": 32,
+        "w": 32,
+        "x": 192,
+        "y": 0
+      },
+      "pixor": {
+        "action": "Sway",
+        "degrees": 0.0,
+        "id": "827bc7f7b57b4887",
+        "index": 6,
+        "pivot": {
+          "x": 16,
+          "y": 26
+        },
+        "side": "South",
+        "tag": "Sway_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 32,
+        "w": 32
+      },
+      "spriteSourceSize": {
+        "h": 32,
+        "w": 32,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    },
+    {
+      "duration": 84,
+      "filename": "fruit-tree-red-apple_Sway_South_07.png",
+      "frame": {
+        "h": 32,
+        "w": 32,
+        "x": 224,
+        "y": 0
+      },
+      "pixor": {
+        "action": "Sway",
+        "degrees": 0.0,
+        "id": "2fe874042a69b231",
+        "index": 7,
+        "pivot": {
+          "x": 16,
+          "y": 26
+        },
+        "side": "South",
+        "tag": "Sway_South"
+      },
+      "rotated": false,
+      "sourceSize": {
+        "h": 32,
+        "w": 32
+      },
+      "spriteSourceSize": {
+        "h": 32,
+        "w": 32,
+        "x": 0,
+        "y": 0
+      },
+      "trimmed": false
+    }
+  ],
+  "meta": {
+    "app": "Pixor",
+    "format": "I8",
+    "frameTags": [
+      {
+        "color": "#000000ff",
+        "direction": "forward",
+        "from": 0,
+        "name": "Sway_South",
+        "to": 7
+      }
+    ],
+    "image": "fruit-tree-red-apple_32px_top-down_outline_lit.png",
+    "layers": [
+      {
+        "blendMode": "normal",
+        "name": "final",
+        "opacity": 255
+      }
+    ],
+    "pixor": {
+      "cell": {
+        "h": 32,
+        "w": 32
+      },
+      "emission": "s_emission.png",
+      "pivot": {
+        "x": 16,
+        "y": 26
+      }
+    },
+    "scale": "1",
+    "size": {
+      "h": 32,
+      "w": 256
+    },
+    "slices": [
+      {
+        "color": "#0000ffff",
+        "keys": [
+          {
+            "bounds": {
+              "h": 32,
+              "w": 32,
+              "x": 0,
+              "y": 0
+            },
+            "frame": 0,
+            "pivot": {
+              "x": 16,
+              "y": 26
+            }
+          }
+        ],
+        "name": "pivot"
+      }
+    ],
+    "version": "2.1.0"
+  }
+}
